@@ -1,0 +1,75 @@
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.exe
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.deps.json
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.runtimeconfig.json
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.runtimeconfig.dev.json
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.pdb
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.AssemblyInfoInputs.cache
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.AssemblyInfo.cs
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.csproj.CoreCompileInputs.cache
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.csproj.CopyComplete
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.dll
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.pdb
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.genruntimeconfig.cache
+C:\Users\mkastl88\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.csprojAssemblyReference.cache
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.exe
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.deps.json
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.runtimeconfig.json
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.runtimeconfig.dev.json
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.pdb
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.AssemblyInfoInputs.cache
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.AssemblyInfo.cs
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.csproj.CoreCompileInputs.cache
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.csproj.CopyComplete
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.dll
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.pdb
+C:\Users\mkast\source\repos\Zombie Apocalypse Discord Bot\obj\Release\netcoreapp3.1\Zombie Apocalypse Discord Bot.genruntimeconfig.cache

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zombie Apocalypse Discord Bot", "Zombie Apocalypse Discord Bot.csproj", "{77C9F00C-E3F7-4564-8A7E-049B353B732B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{657BBCBA-BD62-40D4-BE60-084738FD91AC}"
+	ProjectSection(SolutionItems) = preProject
+		CommandHandler.cs = CommandHandler.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{6B4D878A-4457-496C-BA60-B4468F420D7A}"
+	ProjectSection(SolutionItems) = preProject
+		ExampleCommands.cs = ExampleCommands.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{317A902B-BE34-4FFA-9FF1-4CE2C1BAC850}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C9F00C-E3F7-4564-8A7E-049B353B732B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C9F00C-E3F7-4564-8A7E-049B353B732B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C9F00C-E3F7-4564-8A7E-049B353B732B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C9F00C-E3F7-4564-8A7E-049B353B732B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE13785F-F5BE-43CF-B0AE-24A9C3D6C53C}
+	EndGlobalSection
+EndGlobal
